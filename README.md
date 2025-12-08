@@ -69,12 +69,12 @@ Application.Read.All
 
 From the saved content, create the following:
 
-- TENANT_NAME – Primary domain
-- CLIENT_ID – Application/Client ID
-- CLIENT_SECRET – Client Secret
-- PAT – GitHub Personal Access token
-- COMMIT_NAME – GitHub username
-- COMMIT_EMAIL – GitHub verified email
+- `TENANT_NAME` – Primary domain
+- `CLIENT_ID` – Application/Client ID
+- `CLIENT_SECRET` – Client Secret
+- `PAT` – GitHub Personal Access token
+- `COMMIT_NAME` – GitHub username
+- `COMMIT_EMAIL` – GitHub verified email
 
 ### Repository Actions
 
