@@ -75,3 +75,15 @@ From the saved content, create the following:
 - Filename intune-backup.yml
 - Get a copy of intune-backup.yml from https://github.com/ennnbeee/CES2026
 - Commit changes
+
+
+## References
+
+- IntuneCD - https://github.com/almenscorner/IntuneCD
+- IntuneCD Wiki for Backups - https://github.com/almenscorner/IntuneCD/wiki/Backup
+- IntuneCD Wiki for Documentations - https://github.com/almenscorner/IntuneCD/wiki/Document
+- IntuneCD Wiki for Updates - https://github.com/almenscorner/IntuneCD/wiki/Update
+- IntuneCD Monitor - https://github.com/almenscorner/intunecd-monitor
+- Aaron Parker IntuneCD Local Guide - https://stealthpuppy.com/intunecd-local-environment/
+- Aaron Parker IntuneCD GitHub Guide - https://stealthpuppy.com/automate-intune-documentation-github/
+- Microsoft 365 Developer Program - https://developer.microsoft.com/en-us/microsoft-365/dev-program
