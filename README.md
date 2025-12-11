@@ -1,16 +1,8 @@
-# Introduction
+# Intune GitOps Lite
 
 Repository created for the Cloud Endpoint Summit 2026
 
-# Entra ID
-
-**Entra ID > Overview**
-
-Save the following:
-
-- Primary domain
-
-## App Registration
+## Entra ID App Registration
 
 **Entra ID > App registrations > New registration**
 
@@ -30,7 +22,7 @@ Save the following:
 
 **App registration > API permissions > Add a permission > Microsoft Graph > Application permissions**
 
-```
+```PowerShell
 DeviceManagementApps.Read.All
 DeviceManagementConfiguration.Read.All
 DeviceManagementScripts.Read.All
@@ -43,11 +35,11 @@ Policy.Read.ConditionalAccess
 Application.Read.All
 ```
 
-# GitHub
+## GitHub
 
 **github.com > Sign in/Sign up**
 
-## Personal Access Token
+### Personal Access Token
 
 **github.com > Profile > Settings > Developer Settings > Personal access tokens**
 
@@ -55,7 +47,7 @@ Application.Read.All
 - All repo permissions
 - Save the generated token
 
-## Repository
+### Repository
 
 **github.com > Profile > Repositories > New**
 
@@ -83,4 +75,3 @@ From the saved content, create the following:
 - Filename intune-backup.yml
 - Get a copy of intune-backup.yml from https://github.com/ennnbeee/CES2026
 - Commit changes
-
